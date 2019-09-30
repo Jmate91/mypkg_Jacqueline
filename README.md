@@ -7,7 +7,7 @@
 
 <!-- badges: end -->
 
-The goal of mypk is to …
+The goal of mypk is to … fork Sneha’s file.
 
 ## Installation
 
